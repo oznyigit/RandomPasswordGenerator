@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RandomPasswordGenerator</string>
+    <string name="button_letters">Letters Only</string>
+    <string name="button_digits">Digits Only</string>
+    <string name="button_digits_and_letters">Letters and Digits Combined</string>
+    <string name="button_generate">Generate</string>
+    <string name="button_copy_password">Copy Password</string>
+    <string name="button_exit">Exit</string>
+    <string name="textview_input_numbers">Set the length of your password</string>
+    <string name="textview_generated_password">Your password is:</string>
+    <string name="edittext_input_number_hint">Input Length here</string>
+    <string name="warning_length">Input length</string>
+    <string name="warning_config">Choose configuration</string>
+</resources>
